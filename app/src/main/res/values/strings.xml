@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ParseDemos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sign_up_success">User Sign up successful</string>
+    <string name="sign_up_failed">Sign Up failed.</string>
+    <string name="pass">Password</string>
+    <string name="email">Email id</string>
+    <string name="ph_no">Phone Number</string>
+    <string name="save">Save</string>
+
+</resources>

@@ -1,0 +1,1 @@
+include ':app', ':Scrumptious', ':SwitchUserSample', ':facebook', ':GraphApiSample', ':PlacePickerSample', ':RPSSample', ':ProfilePictureSample', ':HelloFacebookSample', ':SessionLoginSample', ':FriendPickerSample'
